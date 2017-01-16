@@ -1,0 +1,8 @@
+{
+	"marine" : { "past": 5.08, "present": 12.18, "current_state": "past"},
+	"terrestial" : { "past": 8.21, "present": 14.81, "current_state": "past" },
+	"electricity" : { "past": 75.65, "present": 84.58, "current_state": "past"},
+	"fossil_fuel" : { "past": 94.1, "present": 81.2, "current_state": "past"}
+}
+	
+
