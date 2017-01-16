@@ -5,4 +5,9 @@ The graph shows the number of threatened species by types of species: plants, ma
 The data shows 2016 values. 
 
 The data was downloaded as a csv file. 
-The data was then tranformed to a variable in a jason file. 
+The data was then tranformed to a variable in a json file. 
+
+
+______________________________________________________________
+
+The graphics were taken from http://bl.ocks.org/lokesh005/1b23c84b68f5be134ff0. 
